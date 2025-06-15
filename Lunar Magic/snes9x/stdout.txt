@@ -1,0 +1,7 @@
+Reading config file C:\Users\elton\OneDrive\Desktop\Lunar Magic\snes9x\snes9x.conf.
+Saving	config file	C:\Users\elton\OneDrive\Desktop\Lunar Magic\snes9x\snes9x.conf
+Found ROM file header (and ignored it).
+Map_LoROMMap
+"SUPER MARIOWORLD" [checksum ok] LoROM, 8Mbits, ROM+RAM+BAT, NTSC, SRAM:16Kbits, ID:____, CRC32:73BE1349
+Saving	config file	C:\Users\elton\OneDrive\Desktop\Lunar Magic\snes9x\snes9x.conf
+Saving	config file	C:\Users\elton\OneDrive\Desktop\Lunar Magic\snes9x\snes9x.conf
